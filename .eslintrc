@@ -1,0 +1,10 @@
+{
+    "extends": "airbnb",
+    "plugins": [
+        "import"
+    ],
+    "rules": {
+        "semi": ["error", "never"],
+        "eol-last": 0
+    }
+}
